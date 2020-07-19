@@ -1,0 +1,2 @@
+
+Here we demonstrate dimensionality reduction on meme pictures dataset, acquired as Telegram sickers. For interactive demo, [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eegdude/meme_ds/blob/master/yobapci.ipynb)
